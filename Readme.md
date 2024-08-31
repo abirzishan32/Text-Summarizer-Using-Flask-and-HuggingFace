@@ -17,9 +17,4 @@ This is a simple web application for text summarization using the Pegasus model 
 - Transformers (Hugging Face)
 - Bootstrap (for frontend)
 
-## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/text-summarization-app.git
-   cd text-summarization-app
