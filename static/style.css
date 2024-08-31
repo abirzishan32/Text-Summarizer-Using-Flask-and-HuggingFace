@@ -37,6 +37,13 @@ body {
     color: #555;
 }
 
+.btn {
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+
+
 .btn-back {
     background-color: #4CAF50;
     color: white;
